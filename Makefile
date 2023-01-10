@@ -29,7 +29,7 @@ CONFIG_WAKEUP_TYPE = 0x7 #bit2: deauth, bit1: unicast, bit0: magic pkt.
 
 CONFIG_DRVEXT_MODULE = n
 
-export TopDIR ?= $(shell pwd)
+export TopDIR ?= $(src)
 
 ########### COMMON  #################################
 HCI_NAME = usb
