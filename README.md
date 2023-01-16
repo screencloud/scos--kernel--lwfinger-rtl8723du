@@ -1,3 +1,9 @@
+SC:
+Station-P1 (Legacy, non-Pro) WiFi Driver
+Upstream Kernel doesn't include a driver for this chip, so we're using the driver provided (to Armbian) by one of the RealTek employees
+
+------------------------------------------------
+
 rtl8723du
 ===========
 This repository includes drivers for the following card:
