@@ -4,9 +4,15 @@ Upstream Kernel doesn't include a driver for this chip, so we're using the drive
 
 ------------------------------------------------
 
+=======
+THIS DRIVER IS OBSOLETE AND SHOULD BE REPLACED BY THE rtw88 DRIVERS AT
+https://github.com/lwfinger/rtw88.git.
+
+
+===========
 rtl8723du
 ===========
-This repository includes drivers for the following card:
+This repository includes obsolete drivers for the following card:
 
 Realtek RTL8723DU
 
